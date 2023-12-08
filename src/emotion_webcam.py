@@ -1,3 +1,17 @@
+"""
+Created on Sat Dec 21 02:29:44 2019
+File: emotion_webcam_demo.py
+Author: Travis Tang (Voon Hao)
+Github: https://github.com/travistangvh
+Description: Real-time Emotion Classification Demo using Webcam
+
+Modification created on Friday June 03 2022
+File: emotion_webcam.py
+Author: Tony Robinson
+Github: https://github.com/tonserrobo
+Description: Real-time emotion classification demo using webcam with radar plot output 
+"""
+
 import cv2
 import numpy as np
 from tensorflow.keras import models
